@@ -1,5 +1,5 @@
 {
-    "name": "Equinox",
+    "name": "hydra",
     "description": "Experience the internet without censorship.",
     "image": "heroku/nodejs",
     "addons": [],
